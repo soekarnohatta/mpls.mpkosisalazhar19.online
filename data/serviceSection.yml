@@ -1,0 +1,31 @@
+---
+enable: true
+topTitle: Idul Adha & Qurban 1442 H
+title: >
+  ## Ayo Qurban!
+
+  Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).
+service:
+  - content: >
+      #### Pemberitahuan Qurban 1442 H
+
+      Klik ini apabila Anda ingin mengetahui informasi qurban SMA Islam Al Azhar 19
+      tahun 1442 Hijriah
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Rangkaian Kegiatan Idul Adha 1442 H
+
+      Klik ini apabila Anda ingin mengetahui rangkaian kegiatan idul adha & qurban SMAIA 19
+      tahun 1442 Hijriah
+    image: images/service/web.svg
+  - content: >
+      #### Manfaat Berqurban
+
+      “Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).”
+    image: images/service/creative.svg
+  - content: >
+      #### Galeri Idul Adha & Qurban 1442 H
+
+      Klik ini apabila Anda ingin mengetahui galeri kegiatan idul adha & qurban SMA Islam Al Azhar 19
+      tahun 1442 Hijriah
+    image: images/service/branding.svg

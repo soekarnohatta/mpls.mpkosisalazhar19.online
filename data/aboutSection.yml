@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: Tentang
+title: >
+  ## Tentang kami
+
+  Ini adalah bagian tentang kami sebagai tim yang membidangi keagamaan
+content: >
+  ### Kami adalah bagian dari OSIS SMAIA 19 yang membidangi keagamaan.
+
+  Bidang keagamaan beranggotakan tiga orang dengan susunan 1 kelas 11 dan 2 kelas 10.
+  Kami mempunyai beragam program menarik yang berkaitan dengan keagamaan.
+  Kami tidak hanya fokus dikeagamaan saja, tetapi kami juga membantu bidang - bidang yang lain.
+button1Name: Tentang
+button2Name: Hubungi Kami
+button1Target: contact
+button2Target: contact
+image: images/kegiatan/BIMO.jpg
