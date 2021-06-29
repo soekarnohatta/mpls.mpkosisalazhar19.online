@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://keagamaan.mpkosisalazhar19.online"
 languageCode = "en-us"
 paginate = 5
 theme = "portio"
