@@ -63,7 +63,7 @@ openingHours = "24 Hours"
 phone = "+(62) 813 1072 9415"
 
 [params.map]
-APIkey = "AIzaSyCA3wxCU8UlPmf1Gy40fSMp6_m_vfmMnUQ"
+APIkey = "AIzaSyCpD25r44kI5riInNf9AOGWNpAVGziO9Iw"
 latitude = "-6.31965338630833"
 longitude = "106.87723546604138"
 pinImage = "images/pin.png"

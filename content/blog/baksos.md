@@ -1,6 +1,6 @@
 ---
 title: "Bakti Sosial"
-date: 2020-07-13T12:49:27+06:00
+date: 2021-05-04T12:49:27+06:00
 featureImage: images/kegiatan/baksos6.JPG
 postImage: images/single-blog/feature-image.jpg
 ---

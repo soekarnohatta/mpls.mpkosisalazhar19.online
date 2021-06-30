@@ -1,11 +1,11 @@
 ---
-title: "ALCAS Berbagi"
-date: 2021-04-28T12:49:27+06:00
-featureImage: images/kegiatan/berbagi01.JPG
-postImage: images/kegiatan/berbagi01.JPG
+title: "NGOPI & NGEDATE"
+date: 2021-04-17T12:49:27+06:00
+featureImage: images/kegiatan/ngopi-ngedate.jpg
+postImage: images/kegiatan/ngopi-ngedate.jpg
 ---
 
-## ALCAS Berbagi
+## NGOPI& NGEDATE
 
 Assalamu’alaikum Wr. Wb. Pertama-tama marilah kita panjatkan puji serta syukur kita kehadirat Allah SWT, yang mana telah memberikan kita begitu banyak nikmat baik nikmat iman, nikmat islam, serta nikmat sehat. Sholawat beriring salam semoga selalu tercurahkan kepada baginda kita Nabi Muhammad SAW yang mana telah membawa kita dari zaman kegelapan ke zaman yang terang benderang ini. Semoga kita selalu bisa menggunakan nikmat yang diberikan Allah untuk dekat dengan Al-Qur’an dan As-Sunnah.
 
