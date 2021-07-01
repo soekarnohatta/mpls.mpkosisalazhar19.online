@@ -1,7 +1,7 @@
 ---
 title: Bakti Sosial
 date: 2021-05-04T18:07:16.000+06:00
-thumbnail: images/kegiatan/baksos6.JPG
+thumbnail: https://files.mpkosisalazhar19.online/keagamaan/baksos6.JPG
 service: Bakti Sosial, Sosial
 client: Warga Sekitar SMAIA 19
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

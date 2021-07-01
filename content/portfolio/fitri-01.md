@@ -1,7 +1,7 @@
 ---
 title: Idul Fitri 1442 H
 date: 2021-06-020T18:07:16.000+06:00
-thumbnail: images/kegiatan/IDULFITRI.png
+thumbnail: https://files.mpkosisalazhar19.online/keagamaan/IDULFITRI.png
 service: Idul Fitri, Sosial
 client: Warga SMAIA 19
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

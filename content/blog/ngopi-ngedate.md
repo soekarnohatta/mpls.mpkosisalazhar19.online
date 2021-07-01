@@ -1,8 +1,8 @@
 ---
 title: "NGOPI & NGEDATE"
 date: 2021-04-17T12:49:27+06:00
-featureImage: images/kegiatan/ngopi-ngedate.jpg
-postImage: images/kegiatan/ngopi-ngedate.jpg
+featureImage: https://files.mpkosisalazhar19.online/keagamaan/ngopi-ngedate.jpg
+postImage: https://files.mpkosisalazhar19.online/keagamaan/ngopi-ngedate.jpg
 ---
 
 ## NGOPI& NGEDATE

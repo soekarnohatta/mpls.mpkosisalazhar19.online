@@ -26,8 +26,13 @@ pada saat pengambilan raport melalui box yang di sediakan di tiap kelas
 
 📞Untuk informasi lebih lanjut dan pengiriman bukti transfer dapat dilakukan melalui nomor berikut +62 857-7282-7970(Frisya)
 
+{{< blogsection image="https://files.mpkosisalazhar19.online/keagamaan/edaran.jpeg" title="Informasi Sekolah" width="50%" height="40%">}}
+
+Adapun untuk informasi resmi,SMA Islam Al Azhar 19 Ciracas sudah mengeluarkan dua surat imbauan tentang pelaksanaan idul adha serta qurban 1442 H. Dimana warga sekolah turut diminta untuk berpartisipasi dalam kegiatan qurban 1442 H yang ketentuannya bisa dilihat di gambar disamping.
+
+{{< /blogsection >}}
+
+Informasi lainnya terkait kegiatan ini dapat diakses melalui situs ini  dengan membuka laman blog dan memilih artikel yang diinginkan.
 Demikian [edaran](https://files.mpkosisalazhar19.online/keagamaan/edaran.jpeg) ini kami sampaikan, atas kerja sama bapak/ibu sekalian kami ucapkan terima kasih
 
 Wassalamualaikum Warrah Matullahi Wabarakatuh
-
-### [SURAT EDARAN](https://files.mpkosisalazhar19.online/keagamaan/edaran.jpeg)

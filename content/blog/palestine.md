@@ -1,8 +1,8 @@
 ---
 title: "Peduli Palestina"
 date: 2021-06-14T12:49:27+06:00
-featureImage: images/kegiatan/PALESTINE-FOTBAR.jpeg
-postImage: images/kegiatan/PALESTINE-FOTBAR.jpeg
+featureImage: https://files.mpkosisalazhar19.online/keagamaan/PALESTINE-FOTBAR.jpeg
+postImage: https://files.mpkosisalazhar19.online/keagamaan/PALESTINE-FOTBAR.jpeg
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.

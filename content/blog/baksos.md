@@ -1,7 +1,7 @@
 ---
 title: "Bakti Sosial"
 date: 2021-05-04T12:49:27+06:00
-featureImage: images/kegiatan/baksos6.JPG
+featureImage: https://files.mpkosisalazhar19.online/keagamaan/baksos6.JPG
 postImage: images/single-blog/feature-image.jpg
 ---
 

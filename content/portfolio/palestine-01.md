@@ -1,7 +1,7 @@
 ---
 title: Peduli Palestina
 date: 2021-06-020T18:07:16.000+06:00
-thumbnail: images/kegiatan/PALESTINE-FOTBAR.jpeg
+thumbnail: https://files.mpkosisalazhar19.online/keagamaan/PALESTINE-FOTBAR.jpeg
 service: Peduli Palestina, Sosial
 client: LAZ (Lembaga Amil Zakat) Al Azhar
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

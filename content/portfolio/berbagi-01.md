@@ -1,7 +1,7 @@
 ---
 title: ALCAS Berbagi
 date: 2021-05-04T18:07:16.000+06:00
-thumbnail: images/kegiatan/berbagi01.JPG
+thumbnail: https://files.mpkosisalazhar19.online/keagamaan/berbagi01.JPG
 service: ALCAS Berbagi, Sosial
 client: Warga Sekitar SMAIA 19
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

@@ -1,7 +1,7 @@
 ---
 title: "Idul Fitri 1442 H"
 date: 2021-06-01T12:49:27+06:00
-featureImage: images/kegiatan/baksos4.JPG
+featureImage: https://files.mpkosisalazhar19.online/keagamaan/baksos4.JPG
 postImage: images/single-blog/feature-image.jpg
 ---
 
@@ -23,9 +23,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
+{{< blogsection image="https://files.mpkosisalazhar19.online/keagamaan/edaran.jpeg" title="Informasi Sekolah" width="50%" height="40%">}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+Adapun untuk informasi resmi, SMA Islam Al Azhar 19 Ciracas sudah mengeluarkan dua surat imbauan tentang pelaksanaan idul adha serta qurban 1442 H. Dimana warga sekolah turut diminta untuk berpartisipasi dalam kegiatan qurban 1442 H yang ketentuannya bisa dilihat di gambar disamping.
 
 {{< /blogsection >}}
 

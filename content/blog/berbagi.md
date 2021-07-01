@@ -1,8 +1,8 @@
 ---
 title: "ALCAS Berbagi"
 date: 2021-04-28T12:49:27+06:00
-featureImage: images/kegiatan/berbagi01.JPG
-postImage: images/kegiatan/berbagi01.JPG
+featureImage: https://files.mpkosisalazhar19.online/keagamaan/berbagi01.JPG
+postImage: https://files.mpkosisalazhar19.online/keagamaan/berbagi01.JPG
 ---
 
 ## ALCAS Berbagi
@@ -19,3 +19,5 @@ Ibadah ini sangat penting dan dianjurkan dalam banyak literatur keagamaan, seper
 ### مَن فطَّر صائماً كان له مثل أجره غير أنه لا ينقص من أجر الصائم شيء
 
 _“Barangsiapa yang memberi buka orang puasa, maka baginya pahala semisalnya tanpa mengurangi pahala orang yang berpuasa sedikitpun.”_
+
+{{< video " https://mpkosisalazhar19.online/wp-content/uploads/2021/04/vid-baksos-osis-2021-normal.mp4" "my-5" >}}
