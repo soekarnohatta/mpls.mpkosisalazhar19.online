@@ -1,34 +1,22 @@
 ---
-title: "Peduli Palestina"
-date: 2021-06-14T12:49:27+06:00
+title: Peduli Palestina
+date: 2021-06-14T12:49:27.000+06:00
 featureImage: https://files.mpkosisalazhar19.online/keagamaan/PALESTINE-FOTBAR.jpeg
 postImage: https://files.mpkosisalazhar19.online/keagamaan/PALESTINE-FOTBAR.jpeg
+
 ---
+Assalamualaikum Wr. Wb. segala puji bagi Allah atas limpahan rahmat dan karunianya kita masih bisa berkumpul di majelis yang mulia ini. Seperti yang kita ketahui, serangan Israel terhadap warga Palestina merupakan suatu hal yang perlu menjadi perhatian kita Tentunya ini merupakah sesuatu yang memprihatinkan mengingat wilayah Palestina yang masih terus di rampas oleh Israel. Sebagai seorang muslim sudah sepatutnya kita untuk membantu ataupun menolong sesama.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Kami OSIS serta MPK SMAIA 19 telah membuka pintu untuk meyumbangkan sebagian harta kita kepada saudara - saudara kita di Palestina sana. Kami menggalangkan dana yang Alhamdulillah sudah tersalurkan sebesar 30 juta lebih kepada LAZ (Lembaga Amil Zakat Al Azhar) dan KNRP Regional Jawa Barat.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+> **_Tolong_** _menolonglah kalian **dalam kebaikan** dan takwa, dan janganlah kalian **tolong menolong dalam** perbuatan dosa dan pelanggaran."_ -- <cite>Al Maidah Ayat 2</cite>
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+Kutipan surat Al Maidah ayat 2 diatas merupakan perintah bagi kita umat muslim untuk saling tolong menolong oleh sebab itu kami mengucapkan terimakasih yang sebesar - besarnya kepada seluruh donatur yang telah berpartisipasi dalam kegiatan ini. Tentunya kami masih memiliki kekurangan yang tentunya akan selalu kami instrospeksi dan improvisasi.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Demikianlah artikel ini, sekali lagi kami ucapkan terimakasih kepada para donatur atas limpahan rizkinya untuk membantu saudara kita di palestina. Kurang lebihnya mohon maaf, terimakasih, Wassalamualaikum Wr Wb
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+{{< blogsection image="https://files.mpkosisalazhar19.online/keagamaan/PALESTINE-FOTBAR.jpeg" title="Dokumentasi" >}}
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
-
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+Berikut adalah beberapa dokumentasi terkait penyerahan secara langsung hasil penggalangan dana untuk saudar kita di Palestina sana melalui LAZ ( Lembaga Amil Zakat ) Al Azhar di kebayoran baru.
 
 {{< /blogsection >}}
-
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
