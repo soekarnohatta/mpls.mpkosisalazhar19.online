@@ -4,18 +4,12 @@ date: 2021-06-020T18:07:16.000+06:00
 thumbnail: https://files.mpkosisalazhar19.online/keagamaan/PALESTINE-FOTBAR.jpeg
 service: Peduli Palestina, Sosial
 client: LAZ (Lembaga Amil Zakat) Al Azhar
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor.
-challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-
+shortDescription: Peduli Palestina adalah kegiatan OSIS SMAIA 19 dimana kita mencoba
+  untuk melakukan penggalangan dana untuk rakyat palestina yang hak - hak nya ditindas
+  oleh para zionis Israel. Kami berkerja sama dengan LAZ ( Lembaga Amil Zakat ) Al Azhar
+  dalam hal penyaluran dana yang sudah terkumpul.
+challenge: Penggalangan dana tentunya perlu kesadaran dari kita semua maka dari itu banyak tantangan
+  yang harus dihadapi
+solution: Sabar dan saling bekerja sama serta kesadaran kita sebagai umat muslim merupakan hal yang penting
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Kegiatan ini dilakukan oleh OSIS Bidang Keagamaan selama kurang lebih 2 minggu untuk pengumpulan dana. Alhamdulillah kegiatan ini mendapat respon positif dari seluruh warga SMAIA 19 sehingga jumlah yang terkumpul luar biasa.

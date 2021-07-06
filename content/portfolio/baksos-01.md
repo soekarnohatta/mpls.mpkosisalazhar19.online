@@ -4,18 +4,11 @@ date: 2021-05-04T18:07:16.000+06:00
 thumbnail: https://files.mpkosisalazhar19.online/keagamaan/baksos6.JPG
 service: Bakti Sosial, Sosial
 client: Warga Sekitar SMAIA 19
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor.
-challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-
+shortDescription: Dalam hal ini, pengurus OSIS dan Pramuka SMA Islam Al Azhar 19 Ciracas sedang melatih diri ibadah sosial dengan menyalurkan baksos untuk warga sekitar SMAIA 19.
+  Ibadah ini sangat penting dan dianjurkan dalam banyak literatur keagamaan, seperti apa yang Allah perintahkan kepada kita untuk memperhatikan saurdara - saudara kita.
+challenge: Nil
+solution: Nil
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Bulan Ramadhan adalah bulan yang penuh rahmat, di pertengahannya penuh dengan ampunan dan di ujungnya pembebasan dari azab neraka. Mahasuci Allah yang telah menjadikan Ramadhan bulan yang penuh dengan kebaikan, keindahan, kemuliaan, keagungan, sekaligus manfaat jasmani dan rohani.
 
-Ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Oleh karena itu bulan ramadhan ditandai dengan kewajiban berpuasa bagi umat islam yang tentunya banyak memiliki keistimewaan dan keutamaan yang tidak ditemukan dibulan-bulan lainnya. Keutamaan dan keistimewaan tersebut tidak hanya memancing kita untuk menambah kualitas ibadah personal, begitu juga ibadah sosial kita harus digalakkan dan ditingkatkan. Ibadah sosial yang dimaksud adalah tidak hanya menggambarkan hubungan murni antara hamba dengan Tuhannya. Akan tetapi, disamping itu juga terjalin hubungan antara hamba dengan hamba.
