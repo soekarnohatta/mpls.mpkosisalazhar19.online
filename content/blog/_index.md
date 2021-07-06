@@ -1,3 +1,3 @@
 ---
-title: Berita Terkini
+title: Informasi Terbaru
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Informasi Idul Adha & Qurban 1442 H"
 date: 2021-06-30T12:49:27+06:00
-featureImage: images/lain/eid.jpg
-postImage: images/lain/eid.jpg
+featureImage: images/my-image/SMAIA-LOGO.png
+postImage: images/my-image/SMAIA-LOGO.png
 ---
 
 ## Informasi Idul Adha & Qurban 1442 H

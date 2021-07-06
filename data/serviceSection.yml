@@ -1,31 +1,28 @@
 ---
 enable: true
-topTitle: Idul Adha & Qurban 1442 H
+topTitle: Informasi Penting
 title: >
-  ## Ayo Qurban!
+  ## Informasi Tersemat
 
-  Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).
+  Ini adalah bagian _Pinned Information_ yang berisi informasi penting yang harus dilihat oleh seluruh peserta MPLS.
 service:
   - content: >
-      #### [Pemberitahuan Qurban 1442 H](https://keagamaan.mpkosisalazhar19.online/blog/info-qurban)
+      #### [Presensi Harian](/blog/info-presensiharian)
 
-      Klik ini apabila Anda ingin mengetahui informasi qurban SMA Islam Al Azhar 19
-      tahun 1442 Hijriah
+      Klik ini apabila Anda ingin melakukan presensi harian.
     image: images/service/ui-ux.svg
   - content: >
-      #### [Rangkaian Kegiatan Idul Adha 1442 H](https://keagamaan.mpkosisalazhar19.online/blog/timeline)
+      #### [Presensi Dhuha](/blog/info-presensidhuha)
 
-      Klik ini apabila Anda ingin mengetahui rangkaian kegiatan idul adha & qurban SMAIA 19
-      tahun 1442 Hijriah
+      Klik ini apabila Anda ingin melakukan presensi dhuha.
     image: images/service/web.svg
   - content: >
-      #### [Manfaat Berqurban](https://keagamaan.mpkosisalazhar19.online/blog/manfaat-qurban)
+      #### [Booklet MPLS](/blog/info-booklet)
 
-      “Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).”
+       Klik ini apabila Anda ingin melihat booklet MPLS.
     image: images/service/creative.svg
   - content: >
-      #### [Galeri Idul Adha & Qurban 1442 H](https://keagamaan.mpkosisalazhar19.online/blog/galeri-adha)
+      #### [Informasi Lain](/blog)
 
-      Klik ini apabila Anda ingin mengetahui galeri kegiatan idul adha & qurban SMA Islam Al Azhar 19
-      tahun 1442 Hijriah
+       Klik ini apabila Anda ingin mengetahui informasi lain.
     image: images/service/branding.svg

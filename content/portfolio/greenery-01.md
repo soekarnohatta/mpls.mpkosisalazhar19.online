@@ -1,9 +1,9 @@
 ---
-title: Idul Adha 1441 H
-date: 2021-05-04T18:07:16.000+06:00
-thumbnail: https://files.mpkosisalazhar19.online/keagamaan/baksos4.JPG
-service: Idul Adha, Qurban, Sosial
-client: Warga Sekitar SMAIA 19
+title: Greenery
+date: 2021-06-020T18:07:16.000+06:00
+thumbnail: images/lain/greenery.jpg
+service: Greenery, Lingkungan
+client: Warga SMAIA 19
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

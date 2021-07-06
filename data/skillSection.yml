@@ -1,17 +1,17 @@
 ---
 enable: true
-topTitle: Kemajuan Bidang Keagamaan
+topTitle: Kegiatan Hari Ini
 content: >
-  ## Progres Kemajuan Program Yang Berjalan
+  ## Progres Kemajuan Kegiatan MPLS Hari Ini
 
-  Tujuan kami adalah membantu sekolah dalam mencapai visi dan misi khususnya bidang keagamaan
+  Ini adalah bagian yang menunjukan kegiatan yang akan dilakukan hari ini
 
-image: https://files.mpkosisalazhar19.online/keagamaan/BAKSOS-BERI.JPG
+image: images/lain/LIHAT_LAPTOP.jpg
 
 skill:
-  - title: Idul Adha & Kurban 1442 H
+  - title: Perwalian
     percent: 20
-  - title: Peduli Palestina
+  - title: Materi 1
     percent: 100
-  - title: Bakti Sosial
+  - title: Materi 2
     percent: 100

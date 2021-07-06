@@ -1,9 +1,9 @@
 ---
-title: Idul Fitri 1442 H
-date: 2021-06-020T18:07:16.000+06:00
-thumbnail: https://files.mpkosisalazhar19.online/keagamaan/IDULFITRI.png
-service: Idul Fitri, Sosial
-client: Warga SMAIA 19
+title: Jambore Pramuka
+date: 2021-05-04T18:07:16.000+06:00
+thumbnail: images/lain/pramuka.jpg
+service: Pramuka, Sekolah
+client: Murid SMAIA 19
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

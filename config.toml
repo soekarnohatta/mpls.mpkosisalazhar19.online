@@ -2,7 +2,7 @@ baseURL = "https://keagamaan.mpkosisalazhar19.online"
 languageCode = "en-us"
 paginate = 5
 theme = "portio"
-title = "Portal Keagamaan"
+title = "Portal MPLS"
 [[menu.main]]
 name = "Beranda"
 url = "#home"
@@ -12,7 +12,7 @@ name = "Tentang"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Ayo Qurban"
+name = "Presensi"
 url = "#service"
 weight = 3
 [[menu.main]]
@@ -20,7 +20,7 @@ name = "Galeri"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Blog"
+name = "Informasi"
 url = "#blog"
 weight = 5
 [[menu.main]]
@@ -28,20 +28,20 @@ name = ""
 url = "#"
 weight = 6
 [[menu.sitemap]]
-name = "Tentang Kami"
-url = "about"
+name = "Tentang"
+url = "https://mpls.mpkosisalazhar19.online/#about"
 weight = 1
 [[menu.sitemap]]
-name = "Idul Adha & Qurban 1442 H"
-url = "#service"
+name = "Pinned Information"
+url = "https://mpls.mpkosisalazhar19.online/#service"
 weight = 2
 [[menu.sitemap]]
 name = "Galeri"
-url = "#portofolio"
+url = "https://mpls.mpkosisalazhar19.online/#portfolio"
 weight = 3
 [[menu.sitemap]]
-name = "Berita Terkini"
-url = "#"
+name = "Informasi"
+url = "https://mpls.mpkosisalazhar19.online#blog"
 weight = 4
 [params]
 blogPageURL = "blog"
@@ -53,7 +53,7 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/my-image/SMAIA-LOGO.png"
 [params.address]
 address = "Jl. Raya Centex No.24, RT.7/RW.10 Ciracas Kota Jakarta-Timur Daerah Khusus Ibukota Jakarta 13740"
-email = "keagamaan@mpkosisalazhar19.online"
+email = "mpls@mpkosisalazhar19.online"
 openingHours = "24 Hours"
 phone = "+(62) 813 1072 9415"
 [params.map]
@@ -77,3 +77,8 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

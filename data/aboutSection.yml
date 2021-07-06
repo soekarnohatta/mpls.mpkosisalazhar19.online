@@ -2,17 +2,17 @@
 enable: true
 topTitle: Tentang
 title: >
-  ## Tentang kami
+  ## Tentang MPLS
 
-  Ini adalah bagian tentang kami sebagai tim yang membidangi keagamaan
+  Ini adalah bagian tentang dari Masa Pengenalan Lingkungan Sekolah
 content: >
-  ### Kami adalah bagian dari OSIS SMAIA 19 yang membidangi keagamaan.
+  ### Masa Pengenalan Lingkungan Sekolah SMA Islam Al Azhar 19.
 
-  Bidang keagamaan beranggotakan tiga orang dengan susunan 1 kelas 11 dan 2 kelas 10.
-  Kami mempunyai beragam program menarik yang berkaitan dengan keagamaan.
-  Kami tidak hanya fokus dikeagamaan saja, tetapi kami juga membantu bidang - bidang yang lain.
+  Masa Pengenalan Lingkungan Sekolah, juga dikenal sebagai Masa Orientasi Siswa 
+  atau Masa Orientasi Peserta Didik Baru, merupakan sebuah kegiatan yang umum dilaksanakan 
+  di sekolah setiap awal tahun ajaran guna menyambut kedatangan para peserta didik baru.
 button1Name: Tentang
-button2Name: Ayo Qurban
+button2Name: Pinned Info
 button1Target: blog
-button2Target: https://keagamaan.mpkosisalazhar19.online/#service
+button2Target: https://mpls.mpkosisalazhar19.online/#service
 image: https://files.mpkosisalazhar19.online/keagamaan/BIMO.jpg

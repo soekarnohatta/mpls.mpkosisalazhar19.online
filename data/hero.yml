@@ -1,12 +1,12 @@
 ---
 enable: true
-topTitle: Portal Resmi Bidang Keagamaan
+topTitle: Portal MPLS
 content: >
-  # Cerita Kami di Bidang Keagamaan
+  ## Masa Pengenalan Lingkungan Sekolah
 
-  Ini adalah portal resmi OSIS SMAIA 19 untuk Bidang Keagamaan
-buttonName: Ayo Qurban!
-buttonURL: https://keagamaan.mpkosisalazhar19.online/#service
-image: https://files.mpkosisalazhar19.online/keagamaan/ALCAS-BERBAGI-KEIKO.JPG
-videoThumb: https://files.mpkosisalazhar19.online/keagamaan/ALCAS-BERBAGI-BERSAMA.JPG
-videoURL: https://mpkosisalazhar19.online/wp-content/uploads/2021/04/vid-baksos-osis-2021-normal.mp4
+  Ini adalah portal resmi MPLS SMA Islam Al Azhar 19
+buttonName: Presensi
+buttonURL: https://mpls.mpkosisalazhar19.online/#service
+image: images/lain/sma.jpg
+videoThumb: images/lain/maxresdefault.jpg
+videoURL: https://www.youtube.com/watch?v=34pDMRYwhb8

@@ -1,21 +1,22 @@
 ---
-title: ALCAS Berbagi
+title: Sertifikasi Tahfidzh
 date: 2021-05-04T18:07:16.000+06:00
-thumbnail: https://files.mpkosisalazhar19.online/keagamaan/berbagi01.JPG
-service: ALCAS Berbagi, Sosial
-client: Warga Sekitar SMAIA 19
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor.
-challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-
+thumbnail: images/lain/tahfidzh.jpg
+service: Sertifikasi, Tahfidzh, Agama
+client: Murid SMAIA 19
+shortDescription: Sertifikasi tahfidzh adalah suatu kegiatan yang dikhususkan untuk anak - anak
+  yang sudah memiliki kelebihan dalam hal hafalannya. Biasanya anak - anak yang sudah memiliki kelebihan
+  hafalan akan diujikan baik kelancaran, makhorijul huruf, dan lainnya. Bagi yang memenuhi kategori 
+  penilaian serta melampaui nilai minimum ujian, akan diberikan sertifikat khusus dari Lembaga Tahfidzh
+  Al Azhar (LTA) yang berlaku untuk diajukan ketika mendaftat perguruan tinggi.
+challenge: Tantangannya tentunya adalah menguji kembali hafalan yang sudah dihafalkan.
+solution: Solusinya tentu dengan rajin mengulang kembali hafalan kita InsyaAllah akan dimudahkan ketika 
+  proses sertifikasi.
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Suatu kebanggan apabila kita sebagai muslim menghafal Al - Qur'an. Beragam manfaat akan kita dapatkan baik di dunia maupun di akhirat. Oleh karena itu SMA Islam Al Azhar 19 Ciracas memfasilitasi bagi anak - anak yang memiliki kelebihan dalam hafalannya untuk diujikan dan di sertikasi dimana sertifikatnya berasal dari Lembaga Tahfidzh Al Azhar (LTA)
 
-Ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Sertifikasi tahfidzh adalah suatu kegiatan yang dikhususkan untuk anak - anak
+yang sudah memiliki kelebihan dalam hal hafalannya. Biasanya anak - anak yang sudah memiliki kelebihan
+hafalan akan diujikan baik kelancaran, makhorijul huruf, dan lainnya. Bagi yang memenuhi kategori 
+penilaian serta melampaui nilai minimum ujian, akan diberikan sertifikat khusus dari Lembaga Tahfidzh
+Al Azhar (LTA) yang berlaku untuk diajukan ketika mendaftat perguruan tinggi.
