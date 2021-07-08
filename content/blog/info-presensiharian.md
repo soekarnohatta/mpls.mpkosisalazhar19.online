@@ -2,7 +2,7 @@
 title: Presensi Harian Peserta MPLS
 date: 2021-04-17T12:49:27.000+06:00
 featureImage: images/my-image/SMAIA-LOGO.png
-postImage: ''
+postImage: https://lh6.googleusercontent.com/MiGG26vovhzSOH1fvdSoFazwmUsFZt5z7POOLE57Rtc0zNKPeiMmtfBRJGjru9LUWN0c9nznmEHrkzZghZKoG0KvbHDCu3IvPL1-TfEutoX_V3KJfG_tzCLzaDjT7en2cQ
 
 ---
 ## Presensi Harian Peserta MPLS
