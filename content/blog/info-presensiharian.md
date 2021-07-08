@@ -5,8 +5,6 @@ featureImage: images/my-image/SMAIA-LOGO.png
 postImage: https://lh6.googleusercontent.com/MiGG26vovhzSOH1fvdSoFazwmUsFZt5z7POOLE57Rtc0zNKPeiMmtfBRJGjru9LUWN0c9nznmEHrkzZghZKoG0KvbHDCu3IvPL1-TfEutoX_V3KJfG_tzCLzaDjT7en2cQ
 
 ---
-## Presensi Harian Peserta MPLS
-
 <script type="application/javascript">
 var loadCounter = 0;
 var loaded = function() {
