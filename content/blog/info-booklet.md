@@ -11,4 +11,4 @@ Assalamu’alaikum Wr. Wb. Pertama-tama marilah kita panjatkan puji serta syukur
 
 Adik - adik peserta MPLS SMAIA 19 sekalian, berikut adalah Buku Saku MPLS atau [Booklet ](https://files.mpkosisalazhar19.online/MPLS/BUKU%20PANDUAN%20MPLS%202021.pdf)yang bisa dilihat. Silahkan untuk dibaca dan dicermati ya… Apabila memiliki pertanyaan bisa bertanya di grup masing - masing atau melalui _contact form_ di situs ini ya.
 
-<div style="height: 100vh;"> <iframe src="https://docs.google.com/gview?url=https://files.mpkosisalazhar19.online/MPLS/BUKU%20PANDUAN%20MPLS%202021.pdf&embedded=true" style="width:100%; height:60%;" frameborder="0" onload="loaded()"></iframe> </div>
+<div style="height: 100vh;"> <iframe src="https://docs.google.com/gview?url=https://files.mpkosisalazhar19.online/MPLS/BUKU%20PANDUAN%20MPLS%202021.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0" onload="loaded()"></iframe> </div>
