@@ -3,6 +3,8 @@ languageCode = "en-us"
 paginate = 5
 theme = "portio"
 title = "Portal MPLS"
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.main]]
 name = "Beranda"
 url = "#home"
@@ -46,10 +48,10 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved © Kominfotik OSIS 2021"
+copyright = "All rights reserved © Kominfotik OSIS 2021"
 footerLogo = "images/my-image/SMAIA-LOGO.png"
 formspreeURL = "https://formspree.io/f/meqvzkwn"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-FR0FNTNWSP"
 logo = "images/my-image/SMAIA-LOGO.png"
 [params.address]
 address = "Jl. Raya Centex No.24, RT.7/RW.10 Ciracas Kota Jakarta-Timur Daerah Khusus Ibukota Jakarta 13740"
@@ -77,8 +79,3 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
