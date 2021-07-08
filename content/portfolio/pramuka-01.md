@@ -11,7 +11,6 @@ shortDescription: Jambore pramuka adalah suatu kegiatan besar pramuka di SMAIA 1
 challenge: Situasi dan kondisi alam bebas yang tidak bisa diprediksi.
 solution: Sabar, Bekerja sama dalam menghadapi masalah.
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Jambore adalah Pertemuan Pramuka Penggalang dalam bentuk perkemahan besar yang diselenggarakan oleh Kwartir Gerakan Pramuka dari tingkat yang paling ranting sampai tingkat nasional. Bahkan diduniapun diselenggarakan kegiatan serupa yang biasa disebut Jambore Dunia (World Scout Jamboree). Jambore di dunia berkembang ketika diselenggarakan pada tahun 1920 di Inggris. Mulai dari itu sampai sekarang telah terselenggara 23 kali Jambore Dunia. 
 
-Ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-Jambore Pramuka adalah kegiatan dimana kita semua 
+{{<youtube LLILVUblmtU>}}

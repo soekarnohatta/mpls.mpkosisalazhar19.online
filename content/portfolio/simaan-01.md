@@ -14,3 +14,5 @@ solution: Solusinya tentu dengan rajin mengulang kembali hafalan kita InsyaAllah
 Keyakinan bahwa Al-Qur’an akan menjadi panutan, bahwa Al-Qur’an akan menjadi cahaya, bahwa Al-Qur’an akan menjadi petunjuk dan rahmat bagi setiap jiwa, mengilhami kehidupan bagi semuanya.
 
 Dalam hal ini, SMAIA 19 Ciracas mengadakan Semaan Quran yang akan dibawakan oleh murid - murid SMAIA 19. Semoga Allah SWT mempermudah kita menjadi generasi Qur'ani yang berakhlak mulia. Aminnn
+
+{{<youtube j54qTeZton0>}}

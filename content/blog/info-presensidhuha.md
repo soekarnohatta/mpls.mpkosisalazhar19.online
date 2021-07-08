@@ -2,11 +2,8 @@
 title: "Presensi Sholat Dhuha Peserta MPLS"
 date: 2021-04-28T12:49:27+06:00
 featureImage: images/my-image/SMAIA-LOGO.png
-postImage: images/my-image/SMAIA-LOGO.png
+postImage: ""
 ---
-
-## Presensi Sholat Dhuha Peserta MPLS
-
 <script type="application/javascript">
     var loadCounter = 0;
     var loaded = function() {

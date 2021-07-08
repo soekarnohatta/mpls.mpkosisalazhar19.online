@@ -13,3 +13,4 @@ challenge: Penggalangan dana tentunya perlu kesadaran dari kita semua maka dari 
 solution: Sabar dan saling bekerja sama serta kesadaran kita sebagai umat muslim merupakan hal yang penting
 ---
 Kegiatan ini dilakukan oleh OSIS Bidang Keagamaan selama kurang lebih 2 minggu untuk pengumpulan dana. Alhamdulillah kegiatan ini mendapat respon positif dari seluruh warga SMAIA 19 sehingga jumlah yang terkumpul luar biasa.
+{{<youtube gmINO-SgZCI>}}

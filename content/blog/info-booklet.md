@@ -2,7 +2,7 @@
 title: "Informasi Buku Saku MPLS"
 date: 2021-04-17T12:49:27+06:00
 featureImage: images/my-image/SMAIA-LOGO.png
-postImage: images/my-image/SMAIA-LOGO.png
+postImage: ""
 ---
 
 ## Informasi Buku Saku MPLS

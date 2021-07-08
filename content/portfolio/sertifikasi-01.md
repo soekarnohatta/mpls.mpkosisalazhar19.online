@@ -20,3 +20,5 @@ yang sudah memiliki kelebihan dalam hal hafalannya. Biasanya anak - anak yang su
 hafalan akan diujikan baik kelancaran, makhorijul huruf, dan lainnya. Bagi yang memenuhi kategori 
 penilaian serta melampaui nilai minimum ujian, akan diberikan sertifikat khusus dari Lembaga Tahfidzh
 Al Azhar (LTA) yang berlaku untuk diajukan ketika mendaftat perguruan tinggi.
+
+{{<youtube GTDjMjvgrQM>}}

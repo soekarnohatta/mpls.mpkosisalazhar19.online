@@ -2,7 +2,7 @@
 title: "Pembagian Kelompok Peserta MPLS"
 date: 2021-05-04T12:49:27+06:00
 featureImage: images/my-image/SMAIA-LOGO.png
-postImage: images/my-image/SMAIA-LOGO.png
+postImage: ""
 ---
 
 ## Pembagian Kelompok Peserta MPLS
