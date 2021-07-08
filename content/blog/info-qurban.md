@@ -1,8 +1,9 @@
 ---
-title: "Informasi Idul Adha & Qurban 1442 H"
-date: 2021-06-30T12:49:27+06:00
+title: Informasi Idul Adha & Qurban 1442 H
+date: 2021-06-30T12:49:27.000+06:00
 featureImage: images/my-image/SMAIA-LOGO.png
-postImage: ""
+postImage: https://lh6.googleusercontent.com/MiGG26vovhzSOH1fvdSoFazwmUsFZt5z7POOLE57Rtc0zNKPeiMmtfBRJGjru9LUWN0c9nznmEHrkzZghZKoG0KvbHDCu3IvPL1-TfEutoX_V3KJfG_tzCLzaDjT7en2cQ
+
 ---
 Setiap tanggal 10 Dzulhijjah dalam hitungan tahun Hijriyah setiap umat muslim di seluruh dunia merayakan Hari Raya Idul Adha. Selain itu pada tanggal ini juga disebut sebagai Hari Raya Qurban karena pada saat itu umat islam menyembelih qurban dan kemudian dibagi-bagikan kepada yang berhak menerimanya. Sebagaimana di sebutkan dalam *Quran surat Al Kautsar ayat 2 :*
 
