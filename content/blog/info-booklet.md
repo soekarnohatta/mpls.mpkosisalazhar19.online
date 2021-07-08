@@ -5,15 +5,10 @@ featureImage: images/my-image/SMAIA-LOGO.png
 postImage: https://lh6.googleusercontent.com/MiGG26vovhzSOH1fvdSoFazwmUsFZt5z7POOLE57Rtc0zNKPeiMmtfBRJGjru9LUWN0c9nznmEHrkzZghZKoG0KvbHDCu3IvPL1-TfEutoX_V3KJfG_tzCLzaDjT7en2cQ
 
 ---
+<script type="application/javascript"> var loadCounter = 0; var loaded = function() { loadCounter += 1; if (loadCounter === 2) { $("iframe").attr("height", "500px"); $(window).scrollTo(315,0) } } </script>
+
 Assalamu’alaikum Wr. Wb. Pertama-tama marilah kita panjatkan puji serta syukur kita kehadirat Allah SWT, yang mana telah memberikan kita begitu banyak nikmat baik nikmat iman, nikmat islam, serta nikmat sehat. Sholawat beriring salam semoga selalu tercurahkan kepada baginda kita Nabi Muhammad SAW yang mana telah membawa kita dari zaman kegelapan ke zaman yang terang benderang ini. Semoga kita selalu bisa menggunakan nikmat yang diberikan Allah untuk dekat dengan Al-Qur’an dan As-Sunnah.
 
-Bulan Ramadhan adalah bulan yang penuh rahmat, di pertengahannya penuh dengan ampunan dan di ujungnya pembebasan dari azab neraka. Mahasuci Allah yang telah menjadikan Ramadhan bulan yang penuh dengan kebaikan, keindahan, kemuliaan, keagungan, sekaligus manfaat jasmani dan rohani.
+Adik - adik peserta MPLS SMAIA 19 sekalian, berikut adalah Buku Saku MPLS atau [Booklet ](https://files.mpkosisalazhar19.online/MPLS/BUKU%20PANDUAN%20MPLS%202021.pdf)yang bisa dilihat. Silahkan untuk dibaca dan dicermati ya… Apabila memiliki pertanyaan bisa bertanya di grup masing - masing atau melalui _contact form_ di situs ini ya.
 
-Oleh karena itu bulan ramadhan ditandai dengan kewajiban berpuasa bagi umat islam yang tentunya banyak memiliki keistimewaan dan keutamaan yang tidak ditemukan dibulan-bulan lainnya. Keutamaan dan keistimewaan tersebut tidak hanya memancing kita untuk menambah kualitas ibadah personal, begitu juga dengan ilmu. Kita dilatih untuk terus mencari ilmu serta
-
-Dalam hal ini, pengurus OSIS dan Pramuka SMA Islam Al Azhar 19 Ciracas sedang melatih diri ibadah sosial dengan menyediakan takjil serta makanan untuk buka puasa di sekitar sekolah.
-Ibadah ini sangat penting dan dianjurkan dalam banyak literatur keagamaan, seperti sabda Rasulullah Sholallahu Alaihi Wassalam:
-
-### مَن فطَّر صائماً كان له مثل أجره غير أنه لا ينقص من أجر الصائم شيء
-
-_“Barangsiapa yang memberi buka orang puasa, maka baginya pahala semisalnya tanpa mengurangi pahala orang yang berpuasa sedikitpun.”_
+<div style="height: 100vh;"> <iframe src="http://docs.google.com/gview?url=https://files.mpkosisalazhar19.online/MPLS/BUKU%20PANDUAN%20MPLS%202021.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0" onload="loaded()"></iframe> </div>
