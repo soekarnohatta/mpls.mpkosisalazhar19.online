@@ -20,9 +20,9 @@ $(window).scrollTo(315,0)
 
 Assalamu’alaikum Wr. Wb. Pertama-tama marilah kita panjatkan puji serta syukur kita kehadirat Allah SWT, yang mana telah memberikan kita begitu banyak nikmat baik nikmat iman, nikmat islam, serta nikmat sehat. Sholawat beriring salam semoga selalu tercurahkan kepada baginda kita Nabi Muhammad SAW yang mana telah membawa kita dari zaman kegelapan ke zaman yang terang benderang ini. Semoga kita selalu bisa menggunakan nikmat yang diberikan Allah untuk dekat dengan Al-Qur’an dan As-Sunnah.
 
-Adik - adik peserta MPLS SMAIA 19 sekalian, berikut adalah formulir pengisian Presensi Harian. Dimohon untuk mengisi ini setiap hari dari jam 7-9 pagi ya. Biasanya kakak - kakak yang mendampingi kalian akan mengingatkan jika lupa. Silahkan untuk diisidan dicermati ya… Apabila memiliki pertanyaan bisa bertanya di grup masing - masing atau melalui _contact form_ di situs ini ya.
+Adik - adik peserta MPLS SMAIA 19 sekalian, berikut adalah formulir pengisian Presensi Sholat Dhuha. Dimohon untuk mengisi ini setiap hari dari jam 7-9 pagi ya. Biasanya kakak - kakak yang mendampingi kalian akan mengingatkan jika lupa. Silahkan untuk diisidan dicermati ya… Apabila memiliki pertanyaan bisa bertanya di grup masing - masing atau melalui _contact form_ di situs ini ya.
 
-<div style="height: 100vh;"> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyUvtOCQorWx_RWWzF31o-m7G9ZF0P1XG_30SmbyqSM8YYng/viewform?usp=sf_link?embedded=true"  width="100%"
+<div style="height: 100vh;"> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyUvtOCQorWx_RWWzF31o-m7G9ZF0P1XG_30SmbyqSM8YYng/viewform?embedded=true"  width="100%"
 height="100%"
 frameborder="0"
 marginheight="0"
