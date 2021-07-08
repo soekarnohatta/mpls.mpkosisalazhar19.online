@@ -5,8 +5,6 @@ featureImage: images/my-image/SMAIA-LOGO.png
 postImage: https://lh6.googleusercontent.com/MiGG26vovhzSOH1fvdSoFazwmUsFZt5z7POOLE57Rtc0zNKPeiMmtfBRJGjru9LUWN0c9nznmEHrkzZghZKoG0KvbHDCu3IvPL1-TfEutoX_V3KJfG_tzCLzaDjT7en2cQ
 
 ---
-## Informasi Buku Saku MPLS
-
 Assalamu’alaikum Wr. Wb. Pertama-tama marilah kita panjatkan puji serta syukur kita kehadirat Allah SWT, yang mana telah memberikan kita begitu banyak nikmat baik nikmat iman, nikmat islam, serta nikmat sehat. Sholawat beriring salam semoga selalu tercurahkan kepada baginda kita Nabi Muhammad SAW yang mana telah membawa kita dari zaman kegelapan ke zaman yang terang benderang ini. Semoga kita selalu bisa menggunakan nikmat yang diberikan Allah untuk dekat dengan Al-Qur’an dan As-Sunnah.
 
 Bulan Ramadhan adalah bulan yang penuh rahmat, di pertengahannya penuh dengan ampunan dan di ujungnya pembebasan dari azab neraka. Mahasuci Allah yang telah menjadikan Ramadhan bulan yang penuh dengan kebaikan, keindahan, kemuliaan, keagungan, sekaligus manfaat jasmani dan rohani.
