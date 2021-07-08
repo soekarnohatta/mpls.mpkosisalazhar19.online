@@ -16,8 +16,6 @@ $(window).scrollTo(315,0)
 }
 </script>
 
-## Rundown Acara Kegiatan MPLS
-
 Assalamu’alaikum Wr. Wb. Pertama-tama marilah kita panjatkan puji serta syukur kita kehadirat Allah SWT, yang mana telah memberikan kita begitu banyak nikmat baik nikmat iman, nikmat islam, serta nikmat sehat. Sholawat beriring salam semoga selalu tercurahkan kepada baginda kita Nabi Muhammad SAW yang mana telah membawa kita dari zaman kegelapan ke zaman yang terang benderang ini. Semoga kita selalu bisa menggunakan nikmat yang diberikan Allah untuk dekat dengan Al-Qur’an dan As-Sunnah.
 
 Adik - adik peserta MPLS SMAIA 19 sekalian, berikut adalah lampiran Rundown Acara MPLS selama satu pekan kedepan. Silahkan untuk dibaca dan dicermati ya... Apabila memiliki pertanyaan bisa bertanya di grup masing - masing atau melalui _contact form_ di situs ini ya.
