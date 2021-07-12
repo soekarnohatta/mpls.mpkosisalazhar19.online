@@ -1,14 +1,19 @@
 ---
-title: Bakti Sosial
+title: Alspective
 date: 2021-05-04T18:07:16.000+06:00
-thumbnail: https://files.mpkosisalazhar19.online/keagamaan/baksos6.JPG
+thumbnail: https://files.mpkosisalazhar19.online/MPLS/BANNER%20ALSPECTIVE.png
 service: Bakti Sosial, Sosial
-client: Warga Sekitar SMAIA 19
-shortDescription: Dalam hal ini, pengurus OSIS dan Pramuka SMA Islam Al Azhar 19 Ciracas sedang melatih diri ibadah sosial dengan menyalurkan baksos untuk warga sekitar SMAIA 19.
-  Ibadah ini sangat penting dan dianjurkan dalam banyak literatur keagamaan, seperti apa yang Allah perintahkan kepada kita untuk memperhatikan saurdara - saudara kita.
+client: Nasional
+shortDescription: Dalam hal ini, pengurus OSIS SMAIA 19 menyelenggerakan kegiatan
+  ter-akbar disekolah ini yaitu Alspective ( Al Azhar Space Of Creativity ). Kegiatan
+  ini menghadirkan peserta tingkat SMP/SMA Sederajat dengan level Nasional. Artinnya
+  beragam peserta dari berbagai wilayah turut menghadiri acara besar ini.
 challenge: Nil
 solution: Nil
----
-Bulan Ramadhan adalah bulan yang penuh rahmat, di pertengahannya penuh dengan ampunan dan di ujungnya pembebasan dari azab neraka. Mahasuci Allah yang telah menjadikan Ramadhan bulan yang penuh dengan kebaikan, keindahan, kemuliaan, keagungan, sekaligus manfaat jasmani dan rohani.
 
-Oleh karena itu bulan ramadhan ditandai dengan kewajiban berpuasa bagi umat islam yang tentunya banyak memiliki keistimewaan dan keutamaan yang tidak ditemukan dibulan-bulan lainnya. Keutamaan dan keistimewaan tersebut tidak hanya memancing kita untuk menambah kualitas ibadah personal, begitu juga ibadah sosial kita harus digalakkan dan ditingkatkan. Ibadah sosial yang dimaksud adalah tidak hanya menggambarkan hubungan murni antara hamba dengan Tuhannya. Akan tetapi, disamping itu juga terjalin hubungan antara hamba dengan hamba.
+---
+Pandemi atau tidak bukanlah suatu penghalang bagi kita untuk berkreasi. Berkreasi juga tidak hanya bersifat monoton. Oleh karena itu pengurus OSIS SMAIA 19 bersinergi dengan warga sekolah menggelar pagelaran akbar yang bernama Alspective ( Al Azhar Space Of Creativity ) yang insyaAllah tiap tahunnya akan memiliki generasi - generasi penerus.
+
+Kegiatan ini bertaraf nasional untuk versi perdana alias seluruh peserta berasal dari beragam macam wilayah di Indonesia. Beragam lomba pun juga turut memeriahkan acara ini ditambah sistematika pembukaan serta penutupan yang meriah. Tujuan utama kegiatan ini tentunya seperti disebutkan dalam poin sebelumnya ialah untuk menggali potensi diri serta kreativitas kita semua.  Beragam video bisa lihat dibawah  ini
+
+{{<youtube gpVkhVOhT1U>}}
